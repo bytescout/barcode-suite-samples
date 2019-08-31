@@ -1,0 +1,690 @@
+## Index of source code examples:
+
+\ASP Classic
+\ASP.NET C#
+\ASP.NET MVC C#
+\ASP.NET VB
+\C#
+\C++
+\Console
+\Crystal Reports
+\Delphi
+\JavaScript
+\M-Files
+\Microsoft Access
+\Microsoft Excel
+\Microsoft Word
+\PHP
+\SAP PowerBuilder
+\SSRS Reports
+\VB.NET
+\VBScript
+\Visual Basic 6
+\ASP Classic\Create PDF With Datamatrix Barcode with BarCode SDK
+\ASP Classic\Generate barcode image with BarCode SDK
+\ASP Classic\Generate xls spreadsheet with spreadsheet sdk
+\ASP Classic\Read barcode from image with barcode reader sdk
+\ASP Classic\Read barcode from pdf with barcode reader sdk
+\ASP.NET C#\Batch read barcodes to csv with barcode reader sdk
+\ASP.NET C#\Decode page by page from pdf or tiff with barcode reader sdk
+\ASP.NET C#\Display xls as html with spreadsheet sdk
+\ASP.NET C#\Generate Barcode in ASP with BarCode SDK.NET MVC
+\ASP.NET C#\Generate Barcode In C# Backend with BarCode SDK
+\ASP.NET C#\Generate barcode in C# Local Reports (RDLC) with BarCode SDK
+\ASP.NET C#\Generate Barcode with WebImage control in C# with BarCode SDK
+\ASP.NET C#\Generate SSRS Reports VS 2008 with BarCode SDK
+\ASP.NET C#\Read barcode with barcode reader sdk
+\ASP.NET C#\Read barcodes from image with barcode reader sdk
+\ASP.NET C#\Read barcodes from pdf with barcode reader sdk
+\ASP.NET C#\Read from live camera with barcode reader sdk
+\ASP.NET C#\Split pdf by barcode with barcode reader sdk
+\ASP.NET C#\Batch read barcodes to csv with barcode reader sdk\BarcodeFiles
+\ASP.NET C#\Generate Barcode in ASP with BarCode SDK.NET MVC\Helpers
+\ASP.NET MVC C#\Batch read barcodes to csv with barcode reader sdk
+\ASP.NET MVC C#\Decode page by page from pdf or tiff with barcode reader sdk
+\ASP.NET MVC C#\Read barcode with barcode reader sdk
+\ASP.NET MVC C#\Read barcodes from image with barcode reader sdk
+\ASP.NET MVC C#\Read barcodes from pdf with barcode reader sdk
+\ASP.NET MVC C#\Read from live camera with barcode reader sdk
+\ASP.NET MVC C#\Split pdf by barcode with barcode reader sdk
+\ASP.NET MVC C#\Batch read barcodes to csv with barcode reader sdk\BarcodeFiles
+\ASP.NET MVC C#\Read from live camera with barcode reader sdk\app
+\ASP.NET VB\Batch read barcodes to csv with barcode reader sdk
+\ASP.NET VB\Decode page by page from pdf or tiff with barcode reader sdk
+\ASP.NET VB\Display xls as html with spreadsheet sdk
+\ASP.NET VB\Generate Barcode in VB Non-Visual class with BarCode SDK
+\ASP.NET VB\Generate Barcode in VB with BarCode SDK.NET Local Reports (RDLC)
+\ASP.NET VB\Generate barcode in WebImage control in VB with BarCode SDK.NET
+\ASP.NET VB\Read barcode with barcode reader sdk
+\ASP.NET VB\Read barcodes from image with barcode reader sdk
+\ASP.NET VB\Read barcodes from pdf with barcode reader sdk
+\ASP.NET VB\Batch read barcodes to csv with barcode reader sdk\BarcodeFiles
+\C#\Acquire barcode from scanner and decode with barcode reader sdk
+\C#\Add area chart with spreadsheet sdk
+\C#\Add background image with spreadsheet sdk
+\C#\Add bar chart with spreadsheet sdk
+\C#\Add barcode checksum to caption with barcode sdk
+\C#\Add barcode checksum with barcode sdk
+\C#\Add barcode to image with barcode sdk
+\C#\Add barcode to multi tiff with barcode sdk
+\C#\Add barcode to new pdf with barcode sdk
+\C#\Add barcode to pdf with barcode sdk
+\C#\Add bubble chart with spreadsheet sdk
+\C#\Add column chart with spreadsheet sdk
+\C#\Add columns into existing spreadsheet with spreadsheet sdk
+\C#\Add combination chart with spreadsheet sdk
+\C#\Add custom images to pdf document with barcode sdk
+\C#\Add doughnut chart with spreadsheet sdk
+\C#\Add header and footer for spreadsheet with spreadsheet sdk
+\C#\Add image into existing spreadsheet with spreadsheet sdk
+\C#\Add image to spreadsheet with spreadsheet sdk
+\C#\Add images advanced with spreadsheet sdk
+\C#\Add images to spreadsheet with spreadsheet sdk
+\C#\Add line chart with spreadsheet sdk
+\C#\Add pie chart with spreadsheet sdk
+\C#\Add radar chart with spreadsheet sdk
+\C#\Add rows into existing spreadsheet with spreadsheet sdk
+\C#\Add stock chart with spreadsheet sdk
+\C#\Add surface chart with spreadsheet sdk
+\C#\Add xyscatter chart with spreadsheet sdk
+\C#\Batch read barcodes to csv with barcode reader sdk
+\C#\Batch read from files with barcode reader sdk
+\C#\Bookland barcode with barcode sdk
+\C#\Calculate auto update on cell change with spreadsheet sdk
+\C#\Calculate formula in cell with spreadsheet sdk
+\C#\Calculate xirr function with spreadsheet sdk
+\C#\Calculations and spreadsheet as database with spreadsheet sdk
+\C#\Change barcode color with barcode sdk
+\C#\Change cell width and height with spreadsheet sdk
+\C#\Change column width and row height with spreadsheet sdk
+\C#\Change data in existing spreadsheet with spreadsheet sdk
+\C#\Change document properties with spreadsheet sdk
+\C#\Convert csv to sql server with spreadsheet sdk
+\C#\Convert csv to xls with spreadsheet sdk
+\C#\Convert ods to sql server with spreadsheet sdk
+\C#\Convert template to xls with spreadsheet sdk
+\C#\Convert txt to sql server with spreadsheet sdk
+\C#\Convert xls to csv with spreadsheet sdk
+\C#\Convert xls to sql server (via csv bulk insert) with spreadsheet sdk
+\C#\Convert xls to sql server with spreadsheet sdk
+\C#\Convert xls to txt with spreadsheet sdk
+\C#\Convert xls to xlsx with spreadsheet sdk
+\C#\Convert xls to xml and xml to xls with spreadsheet sdk
+\C#\Convert xls to xml with spreadsheet sdk
+\C#\Convert xlsx to sql server with spreadsheet sdk
+\C#\Convert xml to xls with spreadsheet sdk
+\C#\Copy range with spreadsheet sdk
+\C#\Copy worksheet with spreadsheet sdk
+\C#\Copypaste columns with spreadsheet sdk
+\C#\Copypaste rows with spreadsheet sdk
+\C#\Create hello world spreadsheet with spreadsheet sdk
+\C#\Create worksheets with spreadsheet sdk
+\C#\Create xlsx with spreadsheet sdk
+\C#\Decode australian post code barcode with barcode reader sdk
+\C#\Decode aztec barcode with barcode reader sdk
+\C#\Decode bookland barcode with barcode reader sdk
+\C#\Decode codabar barcode with barcode reader sdk
+\C#\Decode codablock f barcode with barcode reader sdk
+\C#\Decode code 128 barcode with barcode reader sdk
+\C#\Decode code 16k barcode with barcode reader sdk
+\C#\Decode code 39 barcode with barcode reader sdk
+\C#\Decode code 93 barcode with barcode reader sdk
+\C#\Decode damaged code 128 barcode with barcode reader sdk
+\C#\Decode damaged code 39 barcode with barcode reader sdk
+\C#\Decode damaged datamatrix barcode with barcode reader sdk
+\C#\Decode damaged qr code barcode with barcode reader sdk
+\C#\Decode datamatrix barcode with barcode reader sdk
+\C#\Decode deutsche post identcode barcode with barcode reader sdk
+\C#\Decode deutsche post leitcode barcode with barcode reader sdk
+\C#\Decode ean-128 barcode with barcode reader sdk
+\C#\Decode ean-13 barcode with barcode reader sdk
+\C#\Decode ean-14 barcode with barcode reader sdk
+\C#\Decode ean-2 barcode with barcode reader sdk
+\C#\Decode ean-5 barcode with barcode reader sdk
+\C#\Decode ean-8 barcode with barcode reader sdk
+\C#\Decode gs1 databar expanded barcode with barcode reader sdk
+\C#\Decode gs1 databar expanded stacked barcode with barcode reader sdk
+\C#\Decode gs1 databar limited barcode with barcode reader sdk
+\C#\Decode gs1 databar omnidirectional barcode with barcode reader sdk
+\C#\Decode gs1 databar stacked barcode with barcode reader sdk
+\C#\Decode gs1 datamatrix barcode with barcode reader sdk
+\C#\Decode gs1-128 barcode with barcode reader sdk
+\C#\Decode intelligent mail barcode with barcode reader sdk
+\C#\Decode interleaved 2 of 5 barcode with barcode reader sdk
+\C#\Decode isbn barcode with barcode reader sdk
+\C#\Decode itf-14 barcode with barcode reader sdk
+\C#\Decode jan-13 barcode with barcode reader sdk
+\C#\Decode macro pdf417 barcode with barcode reader sdk
+\C#\Decode maxicode barcode with barcode reader sdk
+\C#\Decode micr from bank check barcode with barcode reader sdk
+\C#\Decode numly barcode with barcode reader sdk
+\C#\Decode page by page from tiff with barcode reader sdk
+\C#\Decode patch code barcode with barcode reader sdk
+\C#\Decode pdf417 barcode with barcode reader sdk
+\C#\Decode pzn barcode with barcode reader sdk
+\C#\Decode qr code barcode with barcode reader sdk
+\C#\Decode qr code barcode with json with barcode reader sdk
+\C#\Decode royal mail barcode with barcode reader sdk
+\C#\Decode royal mail kix barcode with barcode reader sdk
+\C#\Decode swiss post parcel barcode with barcode reader sdk
+\C#\Decode truncated pdf417 barcode with barcode reader sdk
+\C#\Decode upc-a barcode with barcode reader sdk
+\C#\Decode upc-e barcode with barcode reader sdk
+\C#\Decode usps sack label barcode with barcode reader sdk
+\C#\Decode usps tray label barcode with barcode reader sdk
+\C#\Decoding barcodes from pdf by pages with barcode reader sdk
+\C#\Display barcode on form with barcode sdk
+\C#\Draw barcode caption with barcode sdk
+\C#\Export results to xml, csv, txt with barcode reader sdk
+\C#\Export to 2d array with spreadsheet sdk
+\C#\Export to dataset with spreadsheet sdk
+\C#\Export to datatable with spreadsheet sdk
+\C#\Export to html with spreadsheet sdk
+\C#\Export to jagged array with spreadsheet sdk
+\C#\Export to json with spreadsheet sdk
+\C#\Export to list with spreadsheet sdk
+\C#\Export to pdf with spreadsheet sdk
+\C#\Export to winforms datagrid with spreadsheet sdk
+\C#\Fit barcode into size with barcode sdk
+\C#\Font style in cell with spreadsheet sdk
+\C#\Fonts available for cells with spreadsheet sdk
+\C#\Freeze rows and columns with spreadsheet sdk
+\C#\General example reading barcodes with barcode reader sdk
+\C#\Generate and check QR Code barcode with image inside
+\C#\Generate aztec barcode (2d) with barcode sdk
+\C#\Generate aztec barcode with binary data with barcode sdk
+\C#\Generate barcode from service with barcode sdk
+\C#\Generate barcodes from database with barcode sdk
+\C#\Generate barcodes from excel with barcode sdk
+\C#\Generate codabar barcode with barcode sdk
+\C#\Generate code 128 barcode with barcode sdk
+\C#\Generate code 39 barcode with barcode sdk
+\C#\Generate code 93 barcode with barcode sdk
+\C#\Generate datamatrix barcode with barcode sdk
+\C#\Generate datamatrix barcode with binary data with barcode sdk
+\C#\Generate deutsche post identcode barcode with barcode sdk
+\C#\Generate deutsche post leitcode barcode with barcode sdk
+\C#\Generate dutch kix barcode with barcode sdk
+\C#\Generate ean-128 barcode with barcode sdk
+\C#\Generate ean-13 barcode with barcode sdk
+\C#\Generate ean-8 barcode with barcode sdk
+\C#\Generate gs1 databar expanded barcode with barcode sdk
+\C#\Generate gs1 databar expanded stacked barcode with barcode sdk
+\C#\Generate gs1 databar limited barcode with barcode sdk
+\C#\Generate gs1 databar omnidirectional barcode with barcode sdk
+\C#\Generate gs1 databar stacked barcode with barcode sdk
+\C#\Generate gs1 databar stacked omnidirectional barcode with barcode sdk
+\C#\Generate gs1 databar truncated barcode with barcode sdk
+\C#\Generate gs1 datamatrix barcode with barcode sdk
+\C#\Generate gs1 qr code barcode with barcode sdk
+\C#\Generate interleaved 2 of 5 barcode with barcode sdk
+\C#\Generate invoice with spreadsheet sdk
+\C#\Generate isbn barcode with barcode sdk
+\C#\Generate jan-13 barcode with barcode sdk
+\C#\Generate macro pdf417 barcode with barcode sdk
+\C#\Generate maxicode barcode with barcode sdk
+\C#\Generate maxicode mode 2-3 postal barcode with barcode sdk
+\C#\Generate msi barcode with barcode sdk
+\C#\Generate numly barcode with barcode sdk
+\C#\Generate pdf417 barcode with barcode sdk
+\C#\Generate pdf417 barcode with binary data with barcode sdk
+\C#\Generate pdf417 truncated barcode with barcode sdk
+\C#\Generate pharmacode with barcode sdk
+\C#\Generate planet barcode with barcode sdk
+\C#\Generate plessey barcode with barcode sdk
+\C#\Generate postnet barcode with barcode sdk
+\C#\Generate pzn barcode with barcode sdk
+\C#\Generate qr code barcode with barcode sdk
+\C#\Generate qr code barcode with binary data with barcode sdk
+\C#\Generate qr code barcode with calender entry with barcode sdk
+\C#\Generate qr code barcode with image inside with barcode sdk
+\C#\Generate qr code barcode with json inside with barcode sdk
+\C#\Generate royal mail barcode with barcode sdk
+\C#\Generate simple barcode with barcode sdk
+\C#\Generate singapore postal code barcode with barcode sdk
+\C#\Generate swiss post parcel barcode with barcode sdk
+\C#\Generate upca barcode with barcode sdk
+\C#\Generate upce barcode with barcode sdk
+\C#\Generate usps sack label barcode with barcode sdk
+\C#\Generate usps tray label barcode with barcode sdk
+\C#\Generate vcard qr code with barcode sdk
+\C#\Generate word document with barcodes with barcode sdk
+\C#\Get cell color with spreadsheet sdk
+\C#\Gui example for barcode reading with barcode reader sdk
+\C#\Hidden formula with spreadsheet sdk
+\C#\Hidden rows and columns with spreadsheet sdk
+\C#\Image preprocessing filters with barcode reader sdk
+\C#\Import from 2d array with spreadsheet sdk
+\C#\Import from data table with spreadsheet sdk
+\C#\Import from dataset with spreadsheet sdk
+\C#\Import from jagged array with spreadsheet sdk
+\C#\Import from json with spreadsheet sdk
+\C#\Import from list with spreadsheet sdk
+\C#\Import from winforms datagrid with spreadsheet sdk
+\C#\Insert page break with spreadsheet sdk
+\C#\Interrupt barcode decoding processing with barcode reader sdk
+\C#\Line styles in cells with spreadsheet sdk
+\C#\Merge cells with spreadsheet sdk
+\C#\Merge two documents with spreadsheet sdk
+\C#\Multiple barcode generation with barcode sdk
+\C#\Optical product barcode with barcode sdk
+\C#\Parallel barcode decoding with barcode reader sdk
+\C#\Print barcode with barcode sdk
+\C#\Print labels with barcode sdk
+\C#\Read barcode from live video cam with barcode reader sdk
+\C#\Read barcodes from live video cam (wpf) with barcode reader sdk
+\C#\Read barcodes from pdf with barcode reader sdk
+\C#\Read barcodes from tiff with barcode reader sdk
+\C#\Read cell color with spreadsheet sdk
+\C#\Read checkboxes with barcode reader sdk
+\C#\Read csv file with spreadsheet sdk
+\C#\Read date from cell with spreadsheet sdk
+\C#\Read document properties with spreadsheet sdk
+\C#\Read formula from cell with spreadsheet sdk
+\C#\Read merged cells with spreadsheet sdk
+\C#\Read number format in cell with spreadsheet sdk
+\C#\Read ods (open office calc) files with spreadsheet sdk
+\C#\Read txt (tab delimited) with spreadsheet sdk
+\C#\Read vcard from qr code with barcode reader sdk
+\C#\Read xlsx (office 2007) files with spreadsheet sdk
+\C#\Read xml spreadsheet (spreadsheetml format) with spreadsheet sdk
+\C#\Reduce cpu usage with barcode reader sdk
+\C#\Remove columns from existing spreadsheet with spreadsheet sdk
+\C#\Remove rows from existing spreadsheet with spreadsheet sdk
+\C#\Rename worksheet with spreadsheet sdk
+\C#\Search text with spreadsheet sdk
+\C#\Select active worksheet with spreadsheet sdk
+\C#\Set additional barcode caption with barcode sdk
+\C#\Set barcode angle with barcode sdk
+\C#\Set barcode bar height with barcode sdk
+\C#\Set barcode decoding profiles with barcode reader sdk
+\C#\Set barcode margins with barcode sdk
+\C#\Set cell alignment with spreadsheet sdk
+\C#\Set cell formula with spreadsheet sdk
+\C#\Set codabar barcode options with barcode sdk
+\C#\Set code 128 barcode options with barcode sdk
+\C#\Set custom barcode caption with barcode sdk
+\C#\Set date formatting in cells with spreadsheet sdk
+\C#\Set narrow bar width with barcode sdk
+\C#\Set number format in cells with spreadsheet sdk
+\C#\Set rendering options with barcode sdk
+\C#\Set rich text formatting in cell with spreadsheet sdk
+\C#\Set shrinktofit for cells with spreadsheet sdk
+\C#\Set unicode value for barcode with barcode sdk
+\C#\Set wide to narrow ratio with barcode sdk
+\C#\Sort range with spreadsheet sdk
+\C#\Split pdf document by found barcode with barcode reader sdk
+\C#\Swap cells and their values with spreadsheet sdk
+\C#\Swap worksheets with spreadsheet sdk
+\C#\Unmerge cells with spreadsheet sdk
+\C#\Use custom functions with spreadsheet sdk
+\C#\Use rich formatting to create report with spreadsheet sdk
+\C#\Use special cells with spreadsheet sdk
+\C#\Use unicode text with spreadsheet sdk
+\C#\Validate cell if value is in range with spreadsheet sdk
+\C#\Validate cells with dates with spreadsheet sdk
+\C#\Validate data in cell and mark wrong with color with spreadsheet sdk
+\C#\View spreadsheet with spreadsheet sdk
+\C#\Winforms barcode control with barcode sdk
+\C#\Wpf barcode control for desktop with barcode sdk
+\C#\Wpf barcode control for web with barcode sdk
+\C#\Wpf ui example for barcode reading with barcode reader sdk
+\C#\Batch read barcodes to csv with barcode reader sdk\BarcodeFiles
+\C#\Generate barcode from service with barcode sdk\ServiceController
+\C#\Generate barcode from service with barcode sdk\WindowsService
+\C++\Create simple spreadsheet with spreadsheet sdk
+\C++\Create simple spreasdsheet with spreadsheet sdk
+\C++\General example reading barcode with barcode reader sdk
+\C++\Generate barcode monochrome bitmap with barcode sdk
+\C++\Generate barcode with barcode sdk
+\C++\Get barcode to memory buffer with barcode sdk
+\C++\Read barcode from image with barcode reader sdk
+\C++\Read barcode from memory with barcode reader sdk
+\C++\Set image preprocessing filters with barcode reader sdk
+\Console\Convert in batch from xls to csv with spreadsheet sdk
+\Console\Convert in batch to xls with spreadsheet sdk
+\Console\Convert in batch from xls to csv with spreadsheet sdk\Input Files
+\Console\Convert in batch to xls with spreadsheet sdk\Input Files
+\Crystal Reports\Create report from sql server c# 2005 with barcode sdk
+\Crystal Reports\Generate barcode in crystal reports application c# 2010 with barcode sdk
+\Crystal Reports\Generate barcode in crystal reports application c# 2015 with barcode sdk
+\Crystal Reports\Generate barcode in crystalreports application vb with barcode sdk.net 2010
+\Crystal Reports\Generate barcode in crystalreports application vb with barcode sdk.net 2015
+\Crystal Reports\Generate report from sql server vb with barcode sdk.net 2005
+\Crystal Reports\Generate report from sql server vb with barcode sdk.net 2015
+\Crystal Reports\Generate report rom sql server c# 2015 with barcode sdk
+\Delphi\Barcode reading in console with barcode reader sdk
+\Delphi\Generate barcode from console with barcode sdk
+\Delphi\Generate barcode on forms with barcode sdk
+\Delphi\Print barcode with barcode sdk
+\Delphi\Read barcodes from subfolder with barcode reader sdk
+\Delphi\Set barcode options and code128 alphabet with barcode sdk
+\JavaScript\Create spreadsheet with spreadsheet sdk
+\JavaScript\Generate Barcode with BarCode SDK
+\M-Files\Generate Barcode with BarCode SDK
+\M-Files\Read barcodes with barcode reader sdk
+\Microsoft Access\Add barcode in report with barcode sdk
+\Microsoft Access\Insert barcode into pdf document with barcode sdk
+\Microsoft Access\Read barcode from pdf file with barcode reader sdk
+\Microsoft Access\Save barcode as png image file with barcode sdk
+\Microsoft Excel\Batch Generate Barcodes In Cells with VBA with BarCode SDK
+\Microsoft Word\Add barcode to Word document in C# with BarCode SDK
+\Microsoft Word\Add barcode to Word document in VB with BarCode SDK.NET
+\Microsoft Word\Generate Barcodes In Word with VBA with BarCode SDK
+\PHP\Create spreadsheet with spreadsheet sdk
+\PHP\Read barcode from image with BarCode Reader SDK
+\SAP PowerBuilder\Read Barcode From Image with BarCode Reader SDK
+\SSRS Reports\Generate barcodes in SSRS 2010 with BarCode SDK
+\SSRS Reports\Generate barcodes in SSRS 2012 with BarCode SDK
+\VB.NET\Acquire image from scanner and decode with barcode reader sdk
+\VB.NET\Add area chart with spreadsheet sdk
+\VB.NET\Add background image with spreadsheet sdk
+\VB.NET\Add bar chart with spreadsheet sdk
+\VB.NET\Add barcode to pdf with barcode sdk
+\VB.NET\Add bubble chart with spreadsheet sdk
+\VB.NET\Add checksum to caption with barcode sdk
+\VB.NET\Add checksum with barcode sdk
+\VB.NET\Add column chart with spreadsheet sdk
+\VB.NET\Add columns into existing spreadsheet with spreadsheet sdk
+\VB.NET\Add combination chart with spreadsheet sdk
+\VB.NET\Add custom images to pdf document with barcode sdk
+\VB.NET\Add doughnut chart with spreadsheet sdk
+\VB.NET\Add header and footer with spreadsheet sdk
+\VB.NET\Add images advanced with spreadsheet sdk
+\VB.NET\Add images with spreadsheet sdk
+\VB.NET\Add line chart with spreadsheet sdk
+\VB.NET\Add pie chart with spreadsheet sdk
+\VB.NET\Add radar chart with spreadsheet sdk
+\VB.NET\Add rows into existing spreadsheet with spreadsheet sdk
+\VB.NET\Add stock chart with spreadsheet sdk
+\VB.NET\Add surface chart with spreadsheet sdk
+\VB.NET\Add to image with barcode sdk
+\VB.NET\Add to multi tiff with barcode sdk
+\VB.NET\Add to new pdf with barcode sdk
+\VB.NET\Add xyscatter chart with spreadsheet sdk
+\VB.NET\Additional caption with barcode sdk
+\VB.NET\Barcode image preprocessing filters with barcode reader sdk
+\VB.NET\Barcode reading profiles with barcode reader sdk
+\VB.NET\Batch read barcodes to csv with barcode reader sdk
+\VB.NET\Batch read from files with barcode reader sdk
+\VB.NET\Bookland barcode with barcode sdk
+\VB.NET\Calculate formula in cell with spreadsheet sdk
+\VB.NET\Calculate xirr function with spreadsheet sdk
+\VB.NET\Calculations and spreadsheet as database with spreadsheet sdk
+\VB.NET\Change barcode color with barcode sdk
+\VB.NET\Change cell width and height with spreadsheet sdk
+\VB.NET\Change column width and row height with spreadsheet sdk
+\VB.NET\Change data in existing spreadsheet with spreadsheet sdk
+\VB.NET\Change document properties with spreadsheet sdk
+\VB.NET\Convert ods to sql server with spreadsheet sdk
+\VB.NET\Convert template to xls with spreadsheet sdk
+\VB.NET\Convert txt to sql server with spreadsheet sdk
+\VB.NET\Convert xls to csv with spreadsheet sdk
+\VB.NET\Convert xls to sql server (via csv bulk insert) with spreadsheet sdk
+\VB.NET\Convert xls to sql server with spreadsheet sdk
+\VB.NET\Convert xls to txt with spreadsheet sdk
+\VB.NET\Convert xls to xlsx with spreadsheet sdk
+\VB.NET\Convert xls to xml and xml to xls with spreadsheet sdk
+\VB.NET\Convert xls to xml with spreadsheet sdk
+\VB.NET\Convert xlsx to sql server with spreadsheet sdk
+\VB.NET\Convert xml to xls with spreadsheet sdk
+\VB.NET\Copy range with spreadsheet sdk
+\VB.NET\Copy worksheet with spreadsheet sdk
+\VB.NET\Copypaste columns with spreadsheet sdk
+\VB.NET\Copypaste rows with spreadsheet sdk
+\VB.NET\Create simple hello world spreadsheet with spreadsheet sdk
+\VB.NET\Create worksheets with spreadsheet sdk
+\VB.NET\Create xlsx with spreadsheet sdk
+\VB.NET\Csv to sql server with spreadsheet sdk
+\VB.NET\Csv to xls with spreadsheet sdk
+\VB.NET\Decode australian post code barcode with barcode reader sdk
+\VB.NET\Decode aztec barcode with barcode reader sdk
+\VB.NET\Decode bookland barcode with barcode reader sdk
+\VB.NET\Decode checkboxes barcode with barcode reader sdk
+\VB.NET\Decode codabar barcode with barcode reader sdk
+\VB.NET\Decode codablock f barcode with barcode reader sdk
+\VB.NET\Decode code 128 barcode with barcode reader sdk
+\VB.NET\Decode code 16k barcode with barcode reader sdk
+\VB.NET\Decode code 39 barcode with barcode reader sdk
+\VB.NET\Decode code 93 barcode with barcode reader sdk
+\VB.NET\Decode damaged code 128 barcode with barcode reader sdk
+\VB.NET\Decode damaged code 39 barcode with barcode reader sdk
+\VB.NET\Decode damaged datamatrix barcode with barcode reader sdk
+\VB.NET\Decode damaged qr code barcode with barcode reader sdk
+\VB.NET\Decode datamatrix barcode with barcode reader sdk
+\VB.NET\Decode deutsche post identcode barcode with barcode reader sdk
+\VB.NET\Decode deutsche post leitcode barcode with barcode reader sdk
+\VB.NET\Decode ean-128 barcode with barcode reader sdk
+\VB.NET\Decode ean-13 barcode with barcode reader sdk
+\VB.NET\Decode ean-14 barcode with barcode reader sdk
+\VB.NET\Decode ean-2 barcode with barcode reader sdk
+\VB.NET\Decode ean-5 barcode with barcode reader sdk
+\VB.NET\Decode ean-8 barcode with barcode reader sdk
+\VB.NET\Decode gs1 databar expanded barcode with barcode reader sdk
+\VB.NET\Decode gs1 databar expanded stacked barcode with barcode reader sdk
+\VB.NET\Decode gs1 databar limited barcode with barcode reader sdk
+\VB.NET\Decode gs1 databar omnidirectional barcode with barcode reader sdk
+\VB.NET\Decode gs1 databar stacked barcode with barcode reader sdk
+\VB.NET\Decode gs1 datamatrix barcode with barcode reader sdk
+\VB.NET\Decode gs1-128 barcode with barcode reader sdk
+\VB.NET\Decode intelligent mail barcode with barcode reader sdk
+\VB.NET\Decode interleaved 2 of 5 barcode with barcode reader sdk
+\VB.NET\Decode isbn barcode with barcode reader sdk
+\VB.NET\Decode itf-14 barcode with barcode reader sdk
+\VB.NET\Decode jan-13 barcode with barcode reader sdk
+\VB.NET\Decode macro pdf417 barcode with barcode reader sdk
+\VB.NET\Decode maxicode barcode with barcode reader sdk
+\VB.NET\Decode micr from bank check barcode with barcode reader sdk
+\VB.NET\Decode numly barcode with barcode reader sdk
+\VB.NET\Decode page by page from tiff barcode with barcode reader sdk
+\VB.NET\Decode patch code barcode with barcode reader sdk
+\VB.NET\Decode pdf417 barcode with barcode reader sdk
+\VB.NET\Decode pzn barcode with barcode reader sdk
+\VB.NET\Decode qr code barcode with barcode reader sdk
+\VB.NET\Decode qr code barcode with json with barcode reader sdk
+\VB.NET\Decode royal mail barcode with barcode reader sdk
+\VB.NET\Decode royal mail kix barcode with barcode reader sdk
+\VB.NET\Decode swiss post parcel barcode with barcode reader sdk
+\VB.NET\Decode truncated pdf417 barcode with barcode reader sdk
+\VB.NET\Decode upc-a barcode with barcode reader sdk
+\VB.NET\Decode upc-e barcode with barcode reader sdk
+\VB.NET\Decode usps sack label barcode with barcode reader sdk
+\VB.NET\Decode usps tray label barcode with barcode reader sdk
+\VB.NET\Decoding barcodes from pdf by pages with barcode reader sdk
+\VB.NET\Display barcode on form with barcode sdk
+\VB.NET\Draw caption with barcode sdk
+\VB.NET\Export results to xml, csv, txt with barcode reader sdk
+\VB.NET\Export to 2d array with spreadsheet sdk
+\VB.NET\Export to dataset with spreadsheet sdk
+\VB.NET\Export to datatable with spreadsheet sdk
+\VB.NET\Export to html with spreadsheet sdk
+\VB.NET\Export to jagged array with spreadsheet sdk
+\VB.NET\Export to json with spreadsheet sdk
+\VB.NET\Export to list with spreadsheet sdk
+\VB.NET\Export to pdf with spreadsheet sdk
+\VB.NET\Export to winforms datagrid with spreadsheet sdk
+\VB.NET\Fit into given size with barcode sdk
+\VB.NET\Font style in cell with spreadsheet sdk
+\VB.NET\Fonts available for cells with spreadsheet sdk
+\VB.NET\Freeze rows and columns with spreadsheet sdk
+\VB.NET\General barcode reading example with barcode reader sdk
+\VB.NET\Generate and check QR Code barcode with image inside
+\VB.NET\Generate aztec (2d) barcode with barcode sdk
+\VB.NET\Generate aztec barcode with binary data with barcode sdk
+\VB.NET\Generate barcode from service with barcode sdk
+\VB.NET\Generate barcode with barcode sdk
+\VB.NET\Generate barcodes from database with barcode sdk
+\VB.NET\Generate barcodes from excel with barcode sdk
+\VB.NET\Generate codabar barcode with barcode sdk
+\VB.NET\Generate code 128 barcode with barcode sdk
+\VB.NET\Generate code 39 barcode with barcode sdk
+\VB.NET\Generate code 93 barcode with barcode sdk
+\VB.NET\Generate datamatrix (2d) barcode with barcode sdk
+\VB.NET\Generate datamatrix with binary data with barcode sdk
+\VB.NET\Generate deutsche post identcode barcode with barcode sdk
+\VB.NET\Generate deutsche post leitcode barcode with barcode sdk
+\VB.NET\Generate dutch kix barcode with barcode sdk
+\VB.NET\Generate ean-128 barcode with barcode sdk
+\VB.NET\Generate ean-13 barcode with barcode sdk
+\VB.NET\Generate ean-8 barcode with barcode sdk
+\VB.NET\Generate gs1 datamatrix barcode with barcode sdk
+\VB.NET\Generate gs1 qr code barcode with barcode sdk
+\VB.NET\Generate invoice with spreadsheet sdk
+\VB.NET\Generate isbn barcode with barcode sdk
+\VB.NET\Generate jan-13 barcode with barcode sdk
+\VB.NET\Generate macro pdf417 (multiple)  barcode with barcode sdk
+\VB.NET\Generate maxicode barcode with barcode sdk
+\VB.NET\Generate maxicode mode 2-3 (postal) barcode with barcode sdk
+\VB.NET\Generate msi barcode with barcode sdk
+\VB.NET\Generate numly barcode with barcode sdk
+\VB.NET\Generate pdf417 (2d) barcode with barcode sdk
+\VB.NET\Generate pdf417 barcode with binary data with barcode sdk
+\VB.NET\Generate pdf417 truncated (2d) barcode with barcode sdk
+\VB.NET\Generate pharmacode barcode with barcode sdk
+\VB.NET\Generate planet barcode with barcode sdk
+\VB.NET\Generate plessey barcode with barcode sdk
+\VB.NET\Generate postnet barcode with barcode sdk
+\VB.NET\Generate pzn barcode with barcode sdk
+\VB.NET\Generate qr code (2d) barcode with barcode sdk
+\VB.NET\Generate qr code barcode with binary data with barcode sdk
+\VB.NET\Generate qr code barcode with calenderentry with barcode sdk
+\VB.NET\Generate qr code barcode with image with barcode sdk
+\VB.NET\Generate qr code barcode with json with barcode sdk
+\VB.NET\Generate royal mail barcode with barcode sdk
+\VB.NET\Generate singapore postal code barcode with barcode sdk
+\VB.NET\Generate swiss post parcel barcode with barcode sdk
+\VB.NET\Generate upca barcode with barcode sdk
+\VB.NET\Generate upce barcode with barcode sdk
+\VB.NET\Generate usps sack label with barcode sdk
+\VB.NET\Generate usps tray label with barcode sdk
+\VB.NET\Generate vcard qr code with barcode sdk
+\VB.NET\Generate word document with barcodes with barcode sdk
+\VB.NET\Get cell color with spreadsheet sdk
+\VB.NET\Gui example for barcode reading with barcode reader sdk
+\VB.NET\Import from 2d array with spreadsheet sdk
+\VB.NET\Import from dataset with spreadsheet sdk
+\VB.NET\Import from datatable with spreadsheet sdk
+\VB.NET\Import from jagged array with spreadsheet sdk
+\VB.NET\Import from json with spreadsheet sdk
+\VB.NET\Import from list with spreadsheet sdk
+\VB.NET\Import from winforms datagrid with spreadsheet sdk
+\VB.NET\Insert page break with spreadsheet sdk
+\VB.NET\Interleaved 2 of 5 barcode with barcode sdk
+\VB.NET\Interrupt barcode processing with barcode reader sdk
+\VB.NET\Line styles in cells with spreadsheet sdk
+\VB.NET\Margins with barcode sdk
+\VB.NET\Merge cells with spreadsheet sdk
+\VB.NET\Merge two documents with spreadsheet sdk
+\VB.NET\Multiple barcode generation with barcode sdk
+\VB.NET\Narrow bar width with barcode sdk
+\VB.NET\Number format in cells with spreadsheet sdk
+\VB.NET\Optical product with barcode sdk
+\VB.NET\Options codabar with barcode sdk
+\VB.NET\Options code128 with barcode sdk
+\VB.NET\Parallel barcode decoding with barcode reader sdk
+\VB.NET\Print barcode with barcode sdk
+\VB.NET\Print labels with barcode sdk
+\VB.NET\Read barcode from live video cam (simplified) with barcode reader sdk
+\VB.NET\Read barcode from live video cam (wpf) with barcode reader sdk
+\VB.NET\Read barcode from live video cam with barcode reader sdk
+\VB.NET\Read barcodes from pdf with barcode reader sdk
+\VB.NET\Read barcodes from tiff with barcode reader sdk
+\VB.NET\Read cell color with spreadsheet sdk
+\VB.NET\Read checkboxes from image with barcode reader sdk
+\VB.NET\Read csv file with spreadsheet sdk
+\VB.NET\Read date from cell with spreadsheet sdk
+\VB.NET\Read document properties with spreadsheet sdk
+\VB.NET\Read formula from cell with spreadsheet sdk
+\VB.NET\Read merged cells with spreadsheet sdk
+\VB.NET\Read number format in cell with spreadsheet sdk
+\VB.NET\Read ods (open office calc) files with spreadsheet sdk
+\VB.NET\Read vcard from qr code with barcode reader sdk
+\VB.NET\Read xlsx (office 2007) files with spreadsheet sdk
+\VB.NET\Read xml spreadsheet (spreadsheetml format) with spreadsheet sdk
+\VB.NET\Reduce cpu usage with barcode reader sdk
+\VB.NET\Remove columns from existing spreadsheet with spreadsheet sdk
+\VB.NET\Remove rows from existing spreadsheet with spreadsheet sdk
+\VB.NET\Rename worksheet with spreadsheet sdk
+\VB.NET\Rendering options with barcode sdk
+\VB.NET\Rich text formatting in cell with spreadsheet sdk
+\VB.NET\Search text with spreadsheet sdk
+\VB.NET\Select active worksheet with spreadsheet sdk
+\VB.NET\Set angle with barcode sdk
+\VB.NET\Set barcode height with barcode sdk
+\VB.NET\Set cell alignment with spreadsheet sdk
+\VB.NET\Set cell formula with spreadsheet sdk
+\VB.NET\Set custom caption with barcode sdk
+\VB.NET\Set custom functions with spreadsheet sdk
+\VB.NET\Set date formatting in cells with spreadsheet sdk
+\VB.NET\Set hidden formula with spreadsheet sdk
+\VB.NET\Set hidden rows and columns with spreadsheet sdk
+\VB.NET\Set shrinktofit for cells with spreadsheet sdk
+\VB.NET\Set unicode text in barcode with barcode sdk
+\VB.NET\Set wide to narrow ratio with barcode sdk
+\VB.NET\Split pdf document by found barcode with barcode reader sdk
+\VB.NET\Swap cells and their values with spreadsheet sdk
+\VB.NET\Swap worksheets with spreadsheet sdk
+\VB.NET\Unmerge cells with spreadsheet sdk
+\VB.NET\Use rich formatting to create report with spreadsheet sdk
+\VB.NET\Use unicode text with spreadsheet sdk
+\VB.NET\Validate cell if value is in range with spreadsheet sdk
+\VB.NET\Validate cells with dates with spreadsheet sdk
+\VB.NET\Validate data in cell and mark wrong with color with spreadsheet sdk
+\VB.NET\View spreadsheet with spreadsheet sdk
+\VB.NET\Winforms barcode control with barcode sdk
+\VB.NET\Wpf ui barcode reading example with barcode reader sdk
+\VB.NET\Batch read barcodes to csv with barcode reader sdk\BarcodeFiles
+\VB.NET\Generate barcode from service with barcode sdk\ServiceController
+\VB.NET\Generate barcode from service with barcode sdk\WindowsService
+\VBScript\Add barcode to pdf with barcode sdk
+\VBScript\Add barcodes to image with barcode sdk
+\VBScript\Add barcodes to new pdf with barcode sdk
+\VBScript\Add barcodes to tiff with barcode sdk
+\VBScript\Add images to spreadsheet with spreadsheet sdk
+\VBScript\Barcode image preprocessing filters with barcode reader sdk
+\VBScript\Barcode reading profiles with barcode reader sdk
+\VBScript\Barcodes to excel with barcode reader sdk
+\VBScript\Batch barcode generation with barcode sdk
+\VBScript\Batch read barcodes from files with barcode reader sdk
+\VBScript\Caption font with barcode sdk
+\VBScript\Change cell background color with spreadsheet sdk
+\VBScript\Change column height with spreadsheet sdk
+\VBScript\Change fore and back color with barcode sdk
+\VBScript\Change row height with spreadsheet sdk
+\VBScript\Command line use with barcode sdk
+\VBScript\Convert csv to xls with spreadsheet sdk
+\VBScript\Copy data between spreadsheets with spreadsheet sdk
+\VBScript\Create barcode from excel with barcode sdk
+\VBScript\Create barcode from excel with spreadsheet sdk
+\VBScript\Create simple spreadsheet with spreadsheet sdk
+\VBScript\Custom pdf417 configuration with barcode sdk
+\VBScript\Export to html with spreadsheet sdk
+\VBScript\Generate barcode with barcode sdk
+\VBScript\Generate barcodes from text file with barcode sdk
+\VBScript\Generate pdf417 barcode with barcode sdk
+\VBScript\Merge cells and set alignment with spreadsheet sdk
+\VBScript\Monochrome bitmap with barcode sdk
+\VBScript\Qr code barcode with image inside with barcode sdk
+\VBScript\Read barcode from pdf with barcode reader sdk
+\VBScript\Read barcode from webcam or scanner with barcode reader sdk
+\VBScript\Read code 39 to excel with barcode reader sdk
+\VBScript\Read qr code to excel with barcode reader sdk
+\VBScript\Rename files to barcode values with barcode reader sdk
+\VBScript\Save as pdf with spreadsheet sdk
+\VBScript\Search barcodes in documents and write results to file with barcode reader sdk
+\VBScript\Set 2 captions for barcode with barcode sdk
+\VBScript\Set bar code size in inches with barcode sdk
+\VBScript\Set barcode size with barcode sdk
+\VBScript\Simple barcode reading with barcode reader sdk
+\VBScript\Use rich text formatting with spreadsheet sdk
+\VBScript\Barcodes to excel with barcode reader sdk\InputFiles
+\VBScript\Read code 39 to excel with barcode reader sdk\InputFiles
+\VBScript\Read qr code to excel with barcode reader sdk\InputFiles
+\Visual Basic 6\Create spreadsheet with spreadsheet sdk
+\Visual Basic 6\Draw barcode to form hdc with barcode sdk
+\Visual Basic 6\Print with crystal reports with barcode sdk
+\Visual Basic 6\Printing barcodes with barcode sdk
+\Visual Basic 6\Save barcode to emf images with barcode sdk
+\Visual Basic 6\Save barcode to png images with barcode sdk
+\Visual Basic 6\Set barcode size with barcode sdk
+\Visual Basic 6\Simple barcode reading with BarCode Reader SDK
