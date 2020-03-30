@@ -217,6 +217,7 @@
 \C#\Generate gs1 databar truncated barcode with barcode sdk
 \C#\Generate gs1 datamatrix barcode with barcode sdk
 \C#\Generate gs1 qr code barcode with barcode sdk
+\C#\Generate gs1-128 barcode with barcode sdk
 \C#\Generate interleaved 2 of 5 barcode with barcode sdk
 \C#\Generate invoice with spreadsheet sdk
 \C#\Generate isbn barcode with barcode sdk
@@ -529,6 +530,7 @@
 \VB.NET\Generate ean-8 barcode with barcode sdk
 \VB.NET\Generate gs1 datamatrix barcode with barcode sdk
 \VB.NET\Generate gs1 qr code barcode with barcode sdk
+\VB.NET\Generate gs1-128 barcode with barcode sdk
 \VB.NET\Generate invoice with spreadsheet sdk
 \VB.NET\Generate isbn barcode with barcode sdk
 \VB.NET\Generate jan-13 barcode with barcode sdk
